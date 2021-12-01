@@ -20,6 +20,7 @@ a
 d
 		runRate[7]=62.75f;
 		runRate[14]=32.45F;
+
 		for (int i = 0; i < runRate.length; i++) {
 			System.out.println(i+" RunRate : "+runRate[i]);
 		}
