@@ -15,7 +15,7 @@ public class ArrayTest1 {
 		float runRate[] = new float[15];
 		runRate[0]=12.45f;v
 		runRate[1]=22.15f;
-		runRate[4]=(float) 42.65;
+		runRate[4]=(float) 42.65;d
 a
 d
 		runRate[7]=62.75f;
