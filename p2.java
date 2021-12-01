@@ -13,7 +13,7 @@ public class ArrayTest1 {
 		
 	//  array reference		allocation of the size
 		float runRate[] = new float[15];
-		runRate[0]=12.45f;
+		runRate[0]=12.45f;v
 		runRate[1]=22.15f;
 		runRate[4]=(float) 42.65;
 a
