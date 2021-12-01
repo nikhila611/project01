@@ -16,12 +16,13 @@ public class ArrayTest1 {
 		runRate[0]=12.45f;v
 		runRate[1]=22.15f;
 		runRate[4]=(float) 42.65;d
-a
-d
+
+
+
 		runRate[7]=62.75f;
-v
+
 		runRate[14]=32.45F;
-c
+
 
 		for (int i = 0; i < runRate.length; i++) {
 			System.out.println(i+" RunRate : "+runRate[i]);
