@@ -16,6 +16,7 @@ public class ArrayTest1 {
 		runRate[0]=12.45f;
 		runRate[1]=22.15f;
 		runRate[4]=(float) 42.65;
+a
 		runRate[7]=62.75f;
 		runRate[14]=32.45F;
 		for (int i = 0; i < runRate.length; i++) {
