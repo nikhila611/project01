@@ -19,6 +19,7 @@ public class ArrayTest1 {
 a
 d
 		runRate[7]=62.75f;
+v
 		runRate[14]=32.45F;
 c
 
